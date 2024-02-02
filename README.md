@@ -9,7 +9,9 @@ You can use it to easily manage your [MySQL](https://render.com/docs/deploy-mysq
 ## Deployment
 See https://render.com/docs/deploy-adminer.
 
-We can connect to our MySQL Instance for Ghost as follows (from https://agility-game-adminer.onrender.com/):
+![MySQL Service Addresses](mysql_service_addresses.png)
+
+We can connect to our MySQL Instance for Ghost (see above Service Addresses) as follows (from https://agility-game-adminer.onrender.com/):
 
 ![Login](login_from_adminer_to_mysql.png)
 
