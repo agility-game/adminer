@@ -11,4 +11,6 @@ See https://render.com/docs/deploy-adminer.
 
 We can connect to our MySQL Instance for Ghost as follows (from ):
 
+![Login](login_from_adminer_to_mysql.png)
+
 **NOTE**: The password is to be ofund as one of the ENVIRONMENT VARIABLES of the MySQL instance, see the Dashboard on Render.com. 
