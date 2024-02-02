@@ -9,8 +9,8 @@ You can use it to easily manage your [MySQL](https://render.com/docs/deploy-mysq
 ## Deployment
 See https://render.com/docs/deploy-adminer.
 
-We can connect to our MySQL Instance for Ghost as follows (from ):
+We can connect to our MySQL Instance for Ghost as follows (from https://agility-game-adminer.onrender.com/):
 
 ![Login](login_from_adminer_to_mysql.png)
 
-**NOTE**: The password is to be ofund as one of the ENVIRONMENT VARIABLES of the MySQL instance, see the Dashboard on Render.com. 
+**NOTE**: The password is to be found as one of the ENVIRONMENT VARIABLES (here: MYSQL_ROOT_PASSWORD) of the MySQL instance, see the [Dashboard](https://dashboard.render.com/pserv/srv-cmufn36v3ddc738hqp0g/env) on Render.com. 
